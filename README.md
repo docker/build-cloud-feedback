@@ -14,7 +14,7 @@ by completing the [support form](https://hub.docker.com/support/contact/).
 Bugs with the Docker Build Cloud software can be filed as issues in this repository, which we respond to
 on a best-effort basis. Support requests in this repository (i.e., trouble setting up
 or using the software) will be ignored, but community support is available from the
-[Docker community Slack](https://www.docker.com/docker-community).
+[Docker community](https://www.docker.com/docker-community).
 
 ## This Repository
 
